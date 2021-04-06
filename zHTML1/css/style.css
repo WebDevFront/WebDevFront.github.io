@@ -1,0 +1,71 @@
+/* Comment */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5rem;
+    background-image: url("http://placekitten.com/200/300");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffff;
+}
+img {
+    border: 5px solid red;
+}
+h1 {
+    border: 3px dotted blue;
+}
+h3, h4 {
+    color: blueviolet;
+}
+#myid {
+    border: solid chartreuse;
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: left;
+}
+cite {
+    font-size: 2rem;
+}
+.lorem {
+    box-sizing: border-box;
+    max-width: 50%;
+    padding: 1.2rem;
+    background-color: cornflowerblue;
+    font-size: 1.5rem;
+
+}   
+
+a:link {
+    color: green;
+}
+a:hover {
+    background-color: hotpink;
+}
+ul a:link {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    line-height: 3rem;
+}
+ul a:visited {
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+}
+ul a:hover {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 1.7rem;
+    border: 1rem solid blue;
+    padding: 1rem;
+}
+a.linky {
+    
+}
+a.linky:hover {
+    background-color: red;
+
+}
